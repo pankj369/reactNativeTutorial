@@ -4,9 +4,14 @@
     "slug": "lesson01",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/coffe-icon.jpg",
     "scheme": "lesson01",
     "userInterfaceStyle": "automatic",
+    "splash":{
+      "image": "./assets/images/coffee-splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
